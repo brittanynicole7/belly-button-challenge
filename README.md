@@ -1,5 +1,3 @@
-# Belly Button Challenge
-
 # Project Description 
 
 ## Create a Dashboard with 3 Visualizations and a Table to Display Sample Metadata.
