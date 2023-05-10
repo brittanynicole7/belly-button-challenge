@@ -1,6 +1,6 @@
 # Project Description 
 
-# Link to github webpage: https://brittanynicole7.github.io/belly-button-challenge/belly_button/StarterCode/
+# Link to Github Webpage: https://brittanynicole7.github.io/belly-button-challenge/belly_button/StarterCode/
 
 ## Create a Dashboard with 3 Visualizations and a Table to Display Sample Metadata.
 - Use D3 to read in the samples.json file from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
@@ -13,7 +13,7 @@
 - Deploy the app to GitHub Pages. 
 
 # Software and Files
-- JSON file for data: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
+- JSON file for the data: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
 
 # Output/Analyses
 - Created a dropdown menu where a different individual could be selected and their data be displayed. 
@@ -38,6 +38,9 @@
 - Created a gauge chart displaying washing frequency and number of scrubs per week. 
 <img width="624" alt="Screenshot 2023-05-07 at 7 23 34 PM" src="https://user-images.githubusercontent.com/119909433/236710210-df2cb1da-21f8-43d0-a528-43d96b94320f.png">
 <img width="804" alt="Screenshot 2023-05-07 at 7 23 51 PM" src="https://user-images.githubusercontent.com/119909433/236710225-2f10ae96-e877-4226-9fca-3b61f9e8ed22.png">
+
+- Created a github page with the dashboard. 
+<img width="1688" alt="Screenshot 2023-05-10 at 5 27 38 PM" src="https://github.com/brittanynicole7/belly-button-challenge/assets/119909433/23d7b3ee-7af8-45b4-a030-7fe9143d78e1">
 
 
 #### Note: Some of the code was developed with the help of my tutor and some was based on references from my tutor via Stack Overflow, MDN Web Docs, and Mastering JS. See the included JS file for details. 
